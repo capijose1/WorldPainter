@@ -16,5 +16,6 @@ WorldPainter is a Maven project and easy to build from the command line with
 Maven, or using your favourite IDE. However there are some missing dependencies
 which are not in Maven Central which you will have to install locally first. For
 full details, see:
+Real Hero
 
 https://www.worldpainter.net/doc/building
